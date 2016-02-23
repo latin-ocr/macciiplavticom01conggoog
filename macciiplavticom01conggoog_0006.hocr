@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./macciiplavticom01conggoog_0006.png"; bbox 0 0 2767 4384; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 443 1685 929 1995">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 443 1685 929 1995">
+     <span class='ocr_line' id='line_1_1' title="bbox 443 1685 929 1775; baseline 0.033 -21"><span class='ocrx_word' id='word_1_1' title='bbox 443 1688 523 1767; x_wconf 61' lang='lat' dir='ltr'><strong><em>To&#39;m</em></strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 547 1704 577 1757; x_wconf 78' lang='lat' dir='ltr'><strong><em>S.</em></strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 590 1685 774 1775; x_wconf 59' lang='lat' dir='ltr'><strong><em>[owrerice</em></strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 806 1700 929 1775; x_wconf 75' lang='lat' dir='ltr'><strong><em>Es†0†&#39;e</em></strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 601 1812 645 1869; baseline 0.023 -5"><span class='ocrx_word' id='word_1_5' title='bbox 601 1812 645 1869; x_wconf 62' lang='lat'><strong><em>³1?</em></strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 529 1900 769 1995; baseline 0.013 -18"><span class='ocrx_word' id='word_1_6' title='bbox 529 1930 576 1987; x_wconf 61' lang='lat'><strong><em>14-</em></strong></span> <span class='ocrx_word' id='word_1_7' title='bbox 590 1900 628 1987; x_wconf 50' lang='grc' dir='ltr'><strong><em>,κζ-ς.</em></strong></span> <span class='ocrx_word' id='word_1_8' title='bbox 645 1923 769 1995; x_wconf 52' lang='grc' dir='ltr'><strong><em>49ης</em></strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 574 2034 726 2118">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 574 2034 726 2118">
+     <span class='ocr_line' id='line_1_4' title="bbox 574 2034 726 2118; baseline 0.053 -15"><span class='ocrx_word' id='word_1_9' title='bbox 574 2050 619 2118; x_wconf 76' lang='grc'><strong><em>3-</em></strong></span> <span class='ocrx_word' id='word_1_10' title='bbox 640 2034 726 2110; x_wconf 58' lang='lat' dir='ltr'><strong><em>Voss.</em></strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 0 0 1388 4384">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 0 0 1388 4384">
+     <span class='ocr_line' id='line_1_5' title="bbox 0 0 1388 4384; baseline 0 0"><span class='ocrx_word' id='word_1_11' title='bbox 0 0 1388 4384; x_wconf 95' lang='lat' dir='ltr'><strong><em> </em></strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
